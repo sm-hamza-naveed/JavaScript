@@ -1,3 +1,9 @@
+//For images we need to import the Duke Library named "SimpleImage"
+//or just run the code on the Duke's IDE created
+// https://www.dukelearntoprogram.com//course1/example/index.php
+
+
+
 //creating 200x200 images of yellow color
 
 var img = new SimpleImage(200,200);
